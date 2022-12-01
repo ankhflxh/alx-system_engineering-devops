@@ -1,0 +1,3 @@
+#!/bin/bash
+chmou u+x ,g+x,o+r hello
+
